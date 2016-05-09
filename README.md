@@ -10,5 +10,5 @@
 * Slå upp CSS-attribut och beskrivningar:
 [W3Schools Learn CSS](http://www.w3schools.com/css/default.asp)
 
-* Online-editor där man kan göra korta/små HTML/CSS-lösningar, se resultat direkt och även spara dem för framtiden eller visa upp för andra.
+* Online-editor där man skriva mindre HTML/CSS/(JavaScript)-lösningar eller tester, se resultat direkt och även spara dem för framtiden eller visa upp för andra.
 [CodePen](https://codepen.io/)
